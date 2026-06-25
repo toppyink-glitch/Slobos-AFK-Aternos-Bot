@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Popssmp-Zg9n.aternos.me:20635",
+    "ip": "Popssmp-Zg9n.aternos.me",
     "port": 20635,
     "version": "",
     "try-creative": false
